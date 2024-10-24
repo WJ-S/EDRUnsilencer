@@ -14,7 +14,7 @@ While EDRUnsilencer is not intended for use in production environments, it serve
 
 ### Usage
 
-You can compile the source code into an executable using the following command:
+You can download EDRUnsilencer.exe from this repository, or (the advised way) you can compile the source code into an executable using the following command:
 
 ```bash
 x86_64-w64-mingw32-gcc EDRUnsilencer.c -o EDRUnsilencer.exe -lFwpuclnt -luser32 -mconsole
