@@ -66,7 +66,7 @@ Make sure you have the following libraries available when compiling:
 
 ### License
 
-**EDRUnsilencer** is released into the public domain under The Unlicense. This means anyone is free to use, modify, or distribute this software without restriction. We encourage its use for educational and research purposes. A shout out would be appreciated! :)
+**EDRUnsilencer** is released into the public domain under The Unlicense. This means anyone is free to use, modify, or distribute this software without restriction. I encourage its use for educational and research purposes. A shout out would be appreciated! :)
 
 ### Disclaimer
 
